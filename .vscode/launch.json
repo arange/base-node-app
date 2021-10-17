@@ -1,3 +1,4 @@
+// make sure you install nodemon globally: npm i nodemon -g
 {
   "configurations": [
     {
